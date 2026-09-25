@@ -15,3 +15,11 @@ Collection: Set
  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/422dc6b6-a8aa-4296-97b4-df4a4d1c72c9" />
 Conditional: If
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2df2b7d2-06ae-4122-80e0-5326bfa4ce90" />
+Conditional: When
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/437a46d6-f4b5-479b-ac8e-38ea763f6deb" />
+ Ranges
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0eb05d5c-ad60-4e8e-89fd-23e4512eee9a" />
+Loop: For
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/452e71bb-247b-4c63-a6c7-8201ffc3344a" />
+Loop: While
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a8568913-7179-4a5b-b845-9471531350a9" />
