@@ -23,3 +23,13 @@ Loop: For
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/452e71bb-247b-4c63-a6c7-8201ffc3344a" />
 Loop: While
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a8568913-7179-4a5b-b845-9471531350a9" />
+ Functions
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e0a0191d-a529-4146-8842-5d99b1fb2e6a" />
+ Named Arguments
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/803d13ac-c92e-4ae8-8bc6-f95775e7e798" />
+ Default Parameter Values
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bcda3c5c-392f-4663-965a-e9fb63905eb1" />
+ Functions Without Return
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9043c651-02c6-4e3c-afb5-954664df1b80" />
+
+ 
