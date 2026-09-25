@@ -31,5 +31,11 @@ Loop: While
  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bcda3c5c-392f-4663-965a-e9fb63905eb1" />
  Functions Without Return
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9043c651-02c6-4e3c-afb5-954664df1b80" />
-
- 
+ Lambda Expressions
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d441262c-dec6-4a33-8c16-e4cdf6d170aa" />
+ Class, Properties, & Member Functions
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eded1eec-b4b7-4a67-8b9b-9765b2bcb9cd" />
+ Data Classes
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b57b3396-e3fd-417c-b894-f6c69de5aa22" />
+ Null Safety
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e861cda6-8b5e-4ed1-86b1-138b483b1d4d" />
